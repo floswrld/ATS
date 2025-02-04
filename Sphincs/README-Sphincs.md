@@ -11,10 +11,8 @@ sudo apt install libcurl4-openssl-dev<br>
 sudo apt install libmicrohttpd-dev<br>
 sudo apt install ufw<br>
 sudo ufw allow 8080<br>
-git clone https://github.com/floswrld/PQC-Alg-Compare.git<br>
-cd PQC-Alg-Compare<br>
-git checkout IT-Sicherheit<br>
-cd Sphincs<br>
+git clone https://github.com/floswrld/ATS.git<br>
+cd ATS/Sphincs<br>
 make<br>
 ./ServerSphincs<br>
 
@@ -23,10 +21,8 @@ make<br>
 sudo apt install libssl-dev<br>
 sudo apt install libcurl4-openssl-dev<br>
 sudo apt install libmicrohttpd-dev<br>
-git clone https://github.com/floswrld/PQC-Alg-Compare.git<br>
-cd PQC-Alg-Compare<br>
-git checkout IT-Sicherheit<br>
-cd Sphincs<br>
+git clone https://github.com/floswrld/ATS.git<br>
+cd ATS/Sphincs<br>
 make<br>
 ./ClientSphincs<br>
 
