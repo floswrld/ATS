@@ -17,4 +17,4 @@ Was bei den jeweiligen Algorithmen-Varianten zu beachten ist, um sie zu starten,
 Kyber:                  [README-Kyber](/Kyber/README-Kyber.md)<br>
 Sphincs:                [README-Sphincs](/Sphincs/README-Sphincs.md)<br>
 Diffie-Hellman:         [README-DH](/Diffie-Hellman/README-DH.md)<br>
-Visualisierung:         [Visualisierung]([/Visualisierung/](https://floswrld.github.io/ATS/Visualisierung)
+Visualisierung:         [Visualisierung](https://floswrld.github.io/ATS/Visualisierung)
