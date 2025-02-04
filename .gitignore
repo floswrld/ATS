@@ -1,0 +1,9 @@
+cmake-build-debug/*
+.idea
+.DS_Store
+*.csv
+*.txt
+ClientKyber
+ServerKyber
+ClientSphincs
+ServerSphincs
