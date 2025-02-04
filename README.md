@@ -1,4 +1,4 @@
-# PQC-Alg-Compare
+# Aktuelle Themen der IT-Sicherheit
 
 Dieses GitHub-Repository beinhaltet alle benötigten Libs, Codes und Daten, um den Compare auf Raspi's auszuführen.
 
